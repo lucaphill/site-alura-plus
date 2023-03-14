@@ -4,7 +4,8 @@
     --botao-principal: #167BF7;
     --cor-de-fundo: #00030C;
     --fonte-principal: 'Inter';
-    --botao-azul-efeito: #00316d;
+    --botao-azul-efeito: #160c3b;
+    --titulo-secundario: #5970b6;
 }
 *{
     margin: 0;
@@ -117,6 +118,7 @@ body{
 }
 .conteiner__botao:hover {
     background-color: var(--botao-azul-efeito);
+    border: 2px solid var(--cor-principal);
 }
 .lista__link a:hover{
     color: var(--botao-principal);
