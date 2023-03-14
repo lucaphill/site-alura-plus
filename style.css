@@ -124,10 +124,9 @@ body{
 .lista__link a:active {
     color: rgb(75, 8, 75);
 }
-/* @media(max-width: 1202px) {
-    .conteiner{
-        display: flex;
-        flex-direction: column-reverse;
-        zoom: 35%;
-    }
-} */
+.descricao__titulo:hover{
+    color: var(--titulo-secundario);
+}
+.dispositivos__titulo:hover{
+    color: var(--titulo-secundario);
+}
