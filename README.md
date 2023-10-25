@@ -12,4 +12,4 @@ https://site-alura-plus-five.vercel.app/
  Este site é ilustrativo e foi criado para aprendizado. 
 
 ## Autor
- Gabriel Fellipe
+ Luca Phill
